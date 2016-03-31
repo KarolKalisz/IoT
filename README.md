@@ -1,1 +1,2 @@
-# IoT repository for HCP Trial work
+# IoT 
+the repository for HCP trial work for IoT scenarios.
